@@ -1,0 +1,18 @@
+* {
+    top: 0;
+    left: 0;
+    right: 0;
+    font-family: monospace;
+}
+img {
+    width: 528px;
+    
+}
+button {
+    position: absolute;
+    margin-top: 60%;
+    width: 170px;
+    height: 40px;
+    margin-right: 50%;
+    margin-left: 40%;
+}
